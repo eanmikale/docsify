@@ -1,6 +1,6 @@
-## docsify
+## Infinite AI Engine
 
-> A magical documentation site generator.
+The Infinite AI Engine, is the world's first Self-learning Artificial Intelligence. The AI Engine automates the entire computer-vision pipeline end-to-end. 
 
 ## What it is
 
